@@ -11,7 +11,7 @@ This project analyises a confidential dataset provided by [Vodafone Group Plc](h
 
 #### Demographic and Clinical Characteristics
 
-| Age  | Sex | Occupation | Smoker | Active Smoker | Temperature | Symptoms Onset to Medical Visit |
+| Age | Sex | Occupation | Smoker | Active Smoker | Temperature | Symptoms Onset to Medical Visit |
 | -- | -- | -- | -- | -- | -- | -- |
 
 #### Symptoms
@@ -19,14 +19,59 @@ This project analyises a confidential dataset provided by [Vodafone Group Plc](h
 | Coughing  | Fatigue | Myalgia/Arthralgia | Dyspnea | Diarrhoea | Headache | Ansomia | Dysgeusia | Sore Throat | Blocked Nose | Nausea/Vomiting | Sputum Production | Chills | Asthenia | Chest Pain | Disorientation | Conjunctivitis | Hemoptysis | Cutaneous Lesions |
 | --  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 
+#### Comorbidities
+
+| Any | Hypertension | Diabetes | Obesity | Dyslipidemia | Cancer | Chronic Kidney Disease | Heart Disease | Autoimmune Disease | Chronic Pulmonary | Depression | Arrhythmia | Thyroid Alterations | Asthma | Liver Disease | Cerebrovascular Disease | Alzheimer | Bronchiectasis | Fibromyalgia | Anemia | Arthritis | HIV | Syphilis | Tuberculosis |
+| --  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+
+#### Exams
+
+| Auscultatory Alterations | Tachypnoea | Tachycardia | Pharyngitis | Cutaneous  | Lesions | Tonsillopharyngitis | Oxygen Saturation | 
+| --  | -- | -- | -- | -- | -- | -- | -- |
+
+#### X-Ray
+
+| Bilateral Pulmonary Infiltrates | Interstitial/Ground Glass Pattern | Lobar Pulmonary Infiltrate | Pneumothorax | Pleural Effusion | Bilateral Pulmonary Infiltrates |
+| --  | -- | -- | -- | -- | -- |
+
+#### CT
+
+| Interstitial/Ground Glass Pattern | Pulmonary Thromboembolism | Emphysema | Lobar Pulmonary Infiltrates | Pneumonia | Atelectasis | Pleural Effusion |
+| --  | -- | -- | -- | -- | -- | -- |
+
+#### Laboratory
+
+| Leukocytes | Lymphocytes | Platelets | C-Reactive Protein | Procalcitonin | Lactate Dehydrogenase | Aminotransferase Aspartate | Alanine aminotransferase | Total Bilirubin | Creatine Kinase | Creatine | D-Dimer | Sodium | Potassium |
+| --  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+
+#### Complications
+
+| Any | Pneumonia | Adult Respiratory Distress Syndrome | Renal Failure | Pulmonary Thromboembolism | Sepsis | Multiorgan Failure | Electrolyte Alterations | Hematologic Alterations | Lung Cancer |
+| --  | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+
+#### Treatments
+
+| Hydroxychloroquine | Azithromycin | Lopinavir/Ritonavir | Oxygen Therapy | Intravenous Antibiotics | Glucocorticoids | Tocilizumab | Cephalosporins | Low Molecular Weight Heparin | Remdesivir | Amoxicillin | Interferon | Rituximab | Darunavir | Entecavir |
+| --  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+
+#### Infected
+
+| Any Cohabitant | Any Work Colleague | Any Contact Person in Other Settings |
+| --  | -- | -- |
+
+#### Outcome
+
+| Death | ICU Admission | Hospitalization | Monitored at Home | Phone Follow Up | Work Disability |
+| --  | -- | -- | -- | -- | -- |
+
 ## Results
 
 | Model  | Accuracy |
 | ------------- | ------------- |
-| model  | 83.4%  |
-| model  | 84.5% **(Overall Best)**  |
-| model  | 80.9%  |
-| model  | 84.1% **(when k = 15)**  |
+| Deaths  | 95% **(Most Accurate)** |
+| ICU Admission  | 83% |
+| Hospitalization  | 85% |
+| Recovered  | 66% |
 
 ## Technologies Used
 
