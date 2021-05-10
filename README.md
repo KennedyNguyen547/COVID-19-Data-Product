@@ -9,10 +9,14 @@ description
 
 This project analyises a confidential dataset provided by [Vodafone Group Plc](https://www.vodafone.com/). It contains 322 entries and 121 columns that can be structured in 11 groups.
 
-#### DEMOGRAPHIC AND CLINICAL CHARACTERISTICS
+#### Demographic and Clinical Characteristics
 
 | Age  | Sex | Occupation | Smoker | Active Smoker | Temperature | Symptoms Onset to Medical Visit |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+
+#### Symptoms
+
+| Coughing  | Fatigue | Myalgia or Arthralgia | Dyspnea | Diarrhoea | Headache | Ansomia | Dysgeusia | Sore Throat | Blocked Nose | Nausea or Vomiting | Sputum Production | Chills | Asthenia | Chest Pain | Disorientation | Conjunctivitis | Hemoptysis | Cutaneous Lesions |
 
 
 ## Results
