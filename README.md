@@ -16,7 +16,7 @@ This project analyises a confidential dataset provided by [Vodafone Group Plc](h
 
 #### Symptoms
 
-| Coughing  | Fatigue | Myalgia or Arthralgia | Dyspnea | Diarrhoea | Headache | Ansomia | Dysgeusia | Sore Throat | Blocked Nose | Nausea or Vomiting | Sputum Production | Chills | Asthenia | Chest Pain | Disorientation | Conjunctivitis | Hemoptysis | Cutaneous Lesions |
+| Coughing  | Fatigue | Myalgia/Arthralgia | Dyspnea | Diarrhoea | Headache | Ansomia | Dysgeusia | Sore Throat | Blocked Nose | Nausea/Vomiting | Sputum Production | Chills | Asthenia | Chest Pain | Disorientation | Conjunctivitis | Hemoptysis | Cutaneous Lesions |
 | --  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 
 ## Results
