@@ -7,30 +7,13 @@ description
 
 ## Data Source
 
-This project analyises 4 datasets provided by [Vodafone Group Plc](https://www.vodafone.com/). 
+This project analyises a confidential dataset provided by [Vodafone Group Plc](https://www.vodafone.com/). It contains 322 entries and 121 columns that can be structured in 11 groups.
 
-#### U.S Dataset
+#### DEMOGRAPHIC AND CLINICAL CHARACTERISTICS
 
-Contains 716,376 entries and 8 columns; it shows the total number of confirmed cases of each U.S county from January 22nd, 2020 to September 5th, 2020.
-
-| County Name  | Dynamic Date | State | Confirmed Cases | CountyFIPS | Numbers of Records | County Population | Total Confirmed Cases |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| - | - | - | - | - | - | - | - |
-
-#### World Dataset
-
-Contains 93,059 entries and 6 columns; it shows the total number of confirmed, recovered, and death cases of each country from January 22nd, 2020 to August 22nd, 2020.
-
-| Country/Region  | Observation Date | Province/State | Confirmed Cases | Death Cases | NRecovered Cases |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| - | - | - | - | - | - |
-
-#### China dataset
-
-
-
-#### Confidential dataset 
-
+| Age  | Sex | Occupation | Smoker | Active Smoker | Temperature | Symptoms Onset to Medical Visit |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| - | - | - | - | - | - | - |
 
 
 ## Results
