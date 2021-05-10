@@ -12,12 +12,12 @@ This project analyises a confidential dataset provided by [Vodafone Group Plc](h
 #### Demographic and Clinical Characteristics
 
 | Age  | Sex | Occupation | Smoker | Active Smoker | Temperature | Symptoms Onset to Medical Visit |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| -- | -- | -- | -- | -- | -- | -- |
 
 #### Symptoms
 
 | Coughing  | Fatigue | Myalgia or Arthralgia | Dyspnea | Diarrhoea | Headache | Ansomia | Dysgeusia | Sore Throat | Blocked Nose | Nausea or Vomiting | Sputum Production | Chills | Asthenia | Chest Pain | Disorientation | Conjunctivitis | Hemoptysis | Cutaneous Lesions |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| --  | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 
 ## Results
 
