@@ -3,7 +3,7 @@ Data analysis, visualization, and prediction on COVID-19 medical data.
 
 ## Description
 
-description
+In this project we analyzed COVID-19 medical data and developed a logistic regression model using Python, Scikit Learn, and Jupyter Notebook to determine the likelihood of a patient getting hospitalized, getting admitted to an ICU (Intensive Care Unit), recovering, or dying.
 
 ## Data Source
 
