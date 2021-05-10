@@ -13,7 +13,6 @@ This project analyises a confidential dataset provided by [Vodafone Group Plc](h
 
 | Age  | Sex | Occupation | Smoker | Active Smoker | Temperature | Symptoms Onset to Medical Visit |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| - | - | - | - | - | - | - |
 
 
 ## Results
