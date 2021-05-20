@@ -1,4 +1,5 @@
-# COVID-19-Data-Analysis
+# COVID-19-Data-Product
+
 Data analysis, visualization, and prediction on COVID-19 medical data.
 
 ## Description
